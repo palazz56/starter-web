@@ -12,6 +12,9 @@ This is an example to show different parts of the Git repository.
  
 ## How to Contribute
 
+Test. 
+Modify. 
+
 ## Deployment
 
 This is a simple web project. 
