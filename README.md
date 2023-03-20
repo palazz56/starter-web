@@ -18,3 +18,6 @@ Modify.
 ## Deployment
 
 This is a simple web project. 
+
+#### Copyright
+Git Training Update
