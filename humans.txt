@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Random Name random@aol.com
 
 # THANKS
 
