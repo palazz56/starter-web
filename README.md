@@ -12,6 +12,7 @@ This is an example to show different parts of the Git repository.
  
 ## How to Contribute
 
+Please fork this and issue pull requests for review. 
 Test. 
 Modify. 
 
