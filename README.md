@@ -20,4 +20,4 @@ Modify.
 This is a simple web project. 
 
 #### Copyright
-Git Training
+Git Training Update
